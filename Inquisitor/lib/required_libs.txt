@@ -1,0 +1,12 @@
+libraries that need to be put in the directory with executable:
+
+log4net.dll
+Oracle.DataAccess.dll
+SciLexer.dll
+ScintillaNet.dll
+-- Oracle libs:
+OraOps11w.dll
+oci.dll
+oraocci11.dll
+oraociei11.dll
+orannzsbb11.dll
